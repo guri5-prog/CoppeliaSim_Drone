@@ -5,7 +5,7 @@ import os
 import re
 import numpy as np
 import matplotlib.pyplot as plt
-from drone_env import CoppeliaDroneEnv, plot_training_log  # 🔁 import the plotting function
+from Files.drone_env import CoppeliaDroneEnv, plot_training_log  # 🔁 import the plotting function
 
 # === Settings ===
 checkpoint_dir = "./checkpoints"
