@@ -1,7 +1,3 @@
-Absolutely! Here’s a GitHub-friendly `README.md` for your project that you can copy and paste directly into your repository. It includes sections for description, setup, usage, and more—tailored specifically for a drone reinforcement learning project using CoppeliaSim and Stable-Baselines3.
-
----
-
 # 🚁 Drone Reinforcement Learning with CoppeliaSim + Stable-Baselines3
 
 This project implements **reinforcement learning (RL)** for a drone (quadcopter) in a simulated 3D environment using **CoppeliaSim** and **Stable-Baselines3**. The drone learns to reach a goal position while avoiding obstacles and maintaining flight stability.
@@ -127,6 +123,4 @@ MIT License © [Your Name](https://github.com/yourusername)
 - [CoppeliaSim by Coppelia Robotics](https://www.coppeliarobotics.com/)
 - [Stable-Baselines3](https://github.com/DLR-RM/stable-baselines3)
 
----
 
-Let me know if you’d like to auto-generate a video/GIF demo or link this to Hugging Face, Colab, or a paper!
